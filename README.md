@@ -1,2 +1,2 @@
 #MyApp
-This is a simple JAVA GUI that adds two numbers
+This is a simple Java swing application that enables one to sum two numbers
